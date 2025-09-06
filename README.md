@@ -166,39 +166,7 @@ interface Task {
 }
 \`\`\`
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Deploy automatically on every push
-
-### Other Platforms
-- **Netlify**: Drag and drop the `out` folder after running `npm run build`
-- **GitHub Pages**: Use `next export` for static deployment
-- **Docker**: Use the included Dockerfile for containerized deployment
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Built with [v0.app](https://v0.app) for rapid development
-- UI components from [Shadcn/ui](https://ui.shadcn.com/)
-- Icons from [Lucide](https://lucide.dev/)
-- Deployed on [Vercel](https://vercel.com/)
-
----
-
-**Live Demo**: [https://vercel.com/preetkumar1970-9232s-projects/v0-task-management-app](https://vercel.com/preetkumar1970-9232s-projects/v0-task-management-app)
-
-**Continue Development**: [https://v0.app/chat/projects/TiRFloNl4xs](https://v0.app/chat/projects/TiRFloNl4xs)
